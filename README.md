@@ -1,3 +1,4 @@
 # BlackJack in Telegram
-pip install pyTelegramBotAPI and 
-pip install telebot
+
+pip uninstall telebot
+pip3 install pytelegrambotapi --upgrade
