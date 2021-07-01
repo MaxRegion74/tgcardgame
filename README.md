@@ -1,4 +1,3 @@
-# tgcardgame
-BlackJack in Telegram
-pip install pyTelegramBotAPI
+# BlackJack in Telegram
+pip install pyTelegramBotAPI and 
 pip install telebot
