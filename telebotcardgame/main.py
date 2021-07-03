@@ -1,7 +1,7 @@
 import telebot
 import random
 import time
-token = "1746511679:AAHLWHfLgnBiP7O6ZX0UAqQ73Lo2SPDU9nA"
+token = "*token*"
 bot = telebot.TeleBot(token)
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
